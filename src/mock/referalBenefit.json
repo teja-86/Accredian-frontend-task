@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Programs": "Professional Certificate Program in Product Management",
+        "ReferrerBonus": 7000,
+        "RefereeBonus": 9000
+    },
+    {
+        "id": 2,
+        "Programs": "PG Certificate Program in Strategic Product Management",
+        "ReferrerBonus": 9000,
+        "RefereeBonus": 11000
+    },
+    {
+        "id": 3,
+        "Programs": "Executive Program in Data Driven Product Management",
+        "ReferrerBonus": 10000,
+        "RefereeBonus": 10000
+    },
+    {
+        "id": 4,
+        "Programs": "Executive Program in Product Management and Digital Transformation",
+        "ReferrerBonus": 10000,
+        "RefereeBonus": 10000
+    },
+    {
+        "id": 5,
+        "Programs": "Executive Program in Product Management",
+        "ReferrerBonus": 10000,
+        "RefereeBonus": 10000
+    },
+    {
+        "id": 6,
+        "Programs": "Advanced Certification in Product Management",
+        "ReferrerBonus": 10000,
+        "RefereeBonus": 10000
+    },
+    {
+        "id": 7,
+        "Programs": "Executive Program in Product Management and Project Management",
+        "ReferrerBonus": 10000,
+        "RefereeBonus": 10000
+    }
+]

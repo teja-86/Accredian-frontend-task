@@ -1,0 +1,100 @@
+.btn-base {
+    // flex
+@apply
+font-medium
+rounded-md
+text-sm
+inline-flex
+items-center
+px-5
+py-2.5
+my-3;
+
+&:disabled {
+@apply
+    cursor-not-allowed
+    text-gray-900 
+    bg-gray-100 
+    hover:bg-gray-200 
+    focus:ring-4 
+    focus:outline-none 
+    focus:ring-gray-100 
+    dark:focus:ring-gray-500
+
+} 
+}
+
+.btn-primary {
+&:not(:disabled) {
+background-color: #2563eb;
+border-color: #2563eb;
+@apply
+    text-white
+    hover:bg-blue-700
+    font-medium
+    capitalize
+    focus:ring-4
+    focus:ring-blue-300
+    focus:outline-none
+}
+}
+
+.btn-secondary {
+&:not(:disabled) {
+@apply
+    text-gray-700
+    focus:outline-none
+    bg-gray-300
+    font-medium
+    rounded-lg
+    border
+    border-gray-200
+    hover:text-gray-700
+    focus:z-10
+    focus:ring-4
+    focus:ring-gray-200;       
+}
+}
+
+.btn-warning {
+&:not(:disabled) {
+@apply 
+    focus:outline-none
+    text-white
+    bg-yellow-600
+    hover:bg-yellow-700
+    focus:ring-4
+    focus:ring-yellow-300
+    dark:focus:ring-yellow-900;       
+}
+}
+
+.btn-danger {
+&:not(:disabled) {
+@apply 
+    focus:outline-none
+    text-white
+    bg-red-700
+    hover:bg-red-800
+    focus:ring-4
+    focus:ring-red-300
+    dark:bg-red-600
+    dark:hover:bg-red-700
+    dark:focus:ring-red-900       
+}
+}
+
+.btn-transparent {
+&:not(:disabled) {
+color: #363636;
+
+@apply
+    focus:outline-none;
+}
+}
+
+.btn-gray {
+background-color: #f1f4f6;
+border: 1px solid #dbdee1;
+color: #001836;
+}

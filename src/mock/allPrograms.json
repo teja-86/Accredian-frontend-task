@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "programName": "Product Management"
+    },
+    {
+        "id": 2,
+        "programName": "Strategy & Leadership"
+    },
+    {
+        "id": 3,
+        "programName": "Business Management"
+    },
+    {
+        "id": 4,
+        "programName": "Fintech"
+    },
+    {
+        "id": 5,
+        "programName": "Senior Management"
+    },
+    {
+        "id": 6,
+        "programName": "Data Science"
+    },
+    {
+        "id": 7,
+        "programName": "Digital Transformation"
+    },
+    {
+        "id": 8,
+        "programName": "Business Analytics"
+    }
+]
